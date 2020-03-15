@@ -1,0 +1,39 @@
+body {
+
+    background: linear-gradient(to right,powderblue,white);
+  }
+  
+h1{
+
+  color: black;
+  font-family: 'Lato', red serif;
+}
+h2{
+  color:black;
+}
+h4{
+  color: black;
+  font-family: sans-serif;
+
+}
+h5{
+  color: black;
+  font-family: sans-serif;
+  font-style: italic;
+}
+
+
+h3{
+  color: dodgerblue;
+}
+hr {
+
+  border-style: dotted none none;
+  height: 0px;
+  width: 10%;
+  border-color: grey;
+  border-width: 5px;
+}
+
+
+/*************************CLASS SELECTOR***********************
